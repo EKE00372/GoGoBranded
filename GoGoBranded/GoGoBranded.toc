@@ -1,0 +1,7 @@
+﻿## Interface: 70100
+## Title: |cffEE3A8CGoGoBranded|r
+## Version: 7.10
+## SavedVariables: GGB_DB
+## Author: Paopao, EKE
+
+load.xml
